@@ -1,0 +1,30 @@
+body {
+	   font-family: Arial; background-color: rgb(255, 230, 242); 
+     }
+h1  {
+	    margin: 4px; padding: 16px; font-size: 30px;font-weight: bold; border-bottom: 1px solid #999;
+    }
+
+#resume_heading {
+                  float: left; width: 600px; margin: 40px auto 60px;
+                }
+#resume_image {
+                 float:right; margin: -100px 0 0 0; ms-transform: rotate(7deg); 
+               }
+#objective  {
+                width: 500px; float: left;
+            }
+
+#objective p {
+          	   font-family: Arial;
+             }
+.space { 
+         clear: both; 
+       }
+h2 { margin:4px; padding:16px; font-size: 18px;font-weight: bold;
+   }
+h2 span {
+          float: right;font-style: italic; font-family: Arial; font-size: 14px; color: #999; 
+		}
+dt{
+   font-size: 22px;font-style: italic; font-weight: bold; text-align: right; padding: 0 26px 0 0; width:180px; float: left; height: 200px; border-right: 1px solid #999;}
